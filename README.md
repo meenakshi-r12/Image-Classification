@@ -103,6 +103,7 @@ train_model(model, train_loader)
 ## OUTPUT
 ### Training Loss per Epoch
 
+<img width="503" height="632" alt="Screenshot (315)" src="https://github.com/user-attachments/assets/857f6384-ef0c-4403-af1b-4822465fe13e" />
 
 
 ### Confusion Matrix
@@ -117,8 +118,7 @@ Register Number:212224220062
 
 ### Classification Report
 
-
-
+<img width="823" height="467" alt="Screenshot (316)" src="https://github.com/user-attachments/assets/bdb9f7c7-1f77-4e30-a4d0-5de73a8f709a" />
 
 ### New Sample Data Prediction
 ```
