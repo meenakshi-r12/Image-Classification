@@ -126,9 +126,7 @@ Name: MEENAKSHI.R
 Register Number: 212224220062
 ```
 <img width="389" height="432" alt="download" src="https://github.com/user-attachments/assets/c8d91b72-cc71-4415-b190-c28a09fe5646" />
-```
-Actual: Trouser, Predicted: Trouser
-```
 
+Actual: Trouser, Predicted: Trouser
 ## RESULT
 The Convolutional Neural Network (CNN) was successfully implemented for image classification. The model was trained on the dataset, and its performance was evaluated using accuracy metrics, confusion matrix, and classification report. Predictions on new sample images were verified, confirming the model's effectiveness in classifying images.
